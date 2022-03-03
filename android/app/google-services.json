@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616385926235",
+    "project_id": "foodstagram-e2fd6",
+    "storage_bucket": "foodstagram-e2fd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616385926235:android:e7ea5ff465df5268671b7e",
+        "android_client_info": {
+          "package_name": "com.example.foodstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616385926235-65j6fng4tmku9r5737g8mp31jalospel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3YSca2CzzUduu0JImtBKHauohNEGesE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616385926235-65j6fng4tmku9r5737g8mp31jalospel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
